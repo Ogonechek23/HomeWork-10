@@ -1,0 +1,156 @@
+.flex-header {
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    }
+
+.mogo {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 17px;
+    color: #95E1D3; 
+}
+
+.block1 ~ .block1 {
+    margin-left: 55px;
+}
+
+.block1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #95E1D3;
+}
+
+.block1:hover {
+    color: #F38181;
+}                                                   
+
+.info1 {
+    text-align: center;
+    font-family: 'Kaushan Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+}
+
+.info2 {
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    font-variant: all-small-caps;
+}
+
+.benefits1 {
+    display: flex;
+    justify-content: space-around;
+    width: 1168px;
+    height: 253px;
+    left: 392px;
+    top: 331px;
+}
+
+.alarm {
+    width: 37.8px;
+    height: 37px;
+}
+
+.graph {
+    width: 37.8px;
+    height: 37px;
+}
+
+.display {
+    width: 37.8px;
+    height: 37px;
+}
+
+.benefits2 {
+    display: flex;
+    justify-content: space-around;
+    width: 1168px;
+    height: 253px;
+    left: 392px;
+    top: 331px;
+}
+
+.paper {
+    width: 37.8px;
+    height: 37px;
+}
+
+.home {
+    width: 37.8px;
+    height: 37px;
+}
+
+.marketing {
+    width: 37.8px;
+    height: 37px;
+}
+
+.info3 {
+    text-align: center;
+    font-family: 'Kaushan Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 35px;
+}
+
+.info4 {
+    text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 37px;
+    font-variant: all-small-caps;
+}
+
+.text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #B6B6B6;
+}
+
+.men {
+    display: flex;
+    justify-content: space-around;
+}
+
+.text-under-men1 {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    font-variant: all-small-caps;
+    color: #333333;
+}
+
+.text-under-men2 {
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Roboto';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    color: #B6B6B6;
+}
